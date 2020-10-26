@@ -1,0 +1,7 @@
+name = "new-json-api"
+type = "webpack"
+account_id = "aa3e421ef55224e02966673816f1f59d"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
